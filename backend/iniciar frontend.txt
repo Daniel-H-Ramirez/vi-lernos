@@ -1,0 +1,14 @@
+# Navegar a tu proyecto frontend
+cd C:\Windows\System32\vi-lernos-frontend
+
+# Iniciar el frontend
+npm start
+
+
+http://localhost:8000 - Página principal de la API
+
+http://localhost:8000/docs - Documentación automática Swagger
+
+http://localhost:8000/api/v1/courses - Todos los cursos
+
+http://localhost:8000/api/v1/users/1 - Datos del usuario
